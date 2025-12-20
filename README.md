@@ -36,4 +36,17 @@ The goal is to simulate how organizations manage identities across on-prem and c
 5. Users become available for cloud authentication.
 
 
+## Learning Outcomes
+- Understanding hybrid identity architecture
+- Hands-on experience with Active Directory and Azure AD
+- Identity synchronization concepts
+- Enterprise documentation practices
+- Basic PowerShell automation
+
+
+##  Certification Alignment
+- AZ-104: Microsoft Azure Administrator
+- SC-300: Identity and Access Administrator
+
+
 
