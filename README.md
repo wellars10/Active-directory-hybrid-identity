@@ -15,7 +15,6 @@ The goal is to simulate how organizations manage identities across on-prem and c
 - Azure AD Connect for identity synchronization
 - Secure one-way synchronization (on-prem → cloud)
 
- Architecture diagram available in the `diagrams/` folder.
 
 
 ## Technologies Used
